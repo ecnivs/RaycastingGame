@@ -4,16 +4,16 @@
 ![swappy-20240808-225439](https://github.com/user-attachments/assets/85b3738d-20bc-4174-9362-cdfb6b254733)
 
 <p align="center">
-  <a href="https://github.com/ecnivs/raypy/stargazers">
-    <img src="https://img.shields.io/github/stars/ecnivs/raypy?style=flat-square">
+  <a href="https://github.com/vinceswu/raypy/stargazers">
+    <img src="https://img.shields.io/github/stars/vinceswu/raypy?style=flat-square">
   </a>
-  <a href="https://github.com/ecnivs/raypy/issues">
-    <img src="https://img.shields.io/github/issues/ecnivs/raypy?style=flat-square">
+  <a href="https://github.com/vinceswu/raypy/issues">
+    <img src="https://img.shields.io/github/issues/vinceswu/raypy?style=flat-square">
   </a>
-  <a href="https://github.com/ecnivs/raypy/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/ecnivs/raypy?style=flat-square">
+  <a href="https://github.com/vinceswu/raypy/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/vinceswu/raypy?style=flat-square">
   </a>
-  <img src="https://img.shields.io/github/languages/top/ecnivs/raypy?style=flat-square">
+  <img src="https://img.shields.io/github/languages/top/vinceswu/raypy?style=flat-square">
 </p>
 
 ## Overview
